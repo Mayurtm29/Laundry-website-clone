@@ -272,19 +272,6 @@
     text-align: center;
 }
 
-/* .services h6 {
-    color: #46c6ce;
-    font-size: 1rem;
-    font-weight: 600;
-    margin-bottom: 1rem;
-} */
-
-/* .services h1 {
-    color: #194376;
-    font-size: 3.5rem;
-    margin-bottom: 2rem;
-} */
-
 .service-points {
     padding: 1rem;
 }
@@ -337,13 +324,6 @@
     width: 50%;
     margin-right: 5.5rem;
 }
-
-/* .features h6 {
-    color: #46c6ce;
-    font-size: 1rem;
-    font-weight: 600;
-    margin-bottom: 1rem;
-} */
 
 .features h1 {
     color: #194376;
@@ -409,17 +389,6 @@
     text-align: center;
 }
 
-/* .working-process h6 {
-    color: #46c6ce;
-    font-size: 1rem;
-    font-weight: 600;
-} */
-
-/* .working-process h1 {
-    color: #194376;
-    font-size: 3.5rem;
-} */
-
 .process-card {
     display: inline-block;
     width: 18%;
@@ -430,7 +399,6 @@
 .process-card:hover {
     transform: scale(1.2);
 }
-
 
 .card {
     background-color: #FFF;
@@ -462,12 +430,6 @@
     text-align: center;
 }
 
-/* .our-prices h6{
-    color: #46c6ce;
-    font-size:1rem;
-    font-weight: 600;
-    margin-bottom: 1rem;
-} */
 .price h1 {
     color: #fff;
     font-size: 3.5rem;
@@ -661,7 +623,6 @@ footer h4 {
     color: #fff;
     display: inline-block;
     width: 23%;
-    /* margin: 1rem 0 1rem 2rem; */
 
 }
 
